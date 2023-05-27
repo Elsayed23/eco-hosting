@@ -649,6 +649,7 @@ header .container ul li a:hover::before {
     color: var(--title-color);
     font-size: 45px;
     margin-bottom: 25px;
+    text-align: center;
 }
 
 .about .container .con p {
